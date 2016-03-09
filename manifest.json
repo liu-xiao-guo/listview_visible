@@ -1,0 +1,17 @@
+{
+    "name": "listview.liu-xiao-guo",
+    "description": "description of ListView",
+    "architecture": "all",
+    "title": "ListView",
+    "hooks": {
+        "ListView": {
+            "apparmor": "ListView.apparmor",
+            "desktop":  "ListView.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+
